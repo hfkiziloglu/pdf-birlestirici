@@ -1,6 +1,6 @@
 # PDF Birleştirici
 
-Birden fazla PDF dosyasını tek bir PDF dosyasında birleştiren basit bir Python programı.
+Birden fazla PDF dosyasını tek bir PDF dosyasında birleştiren basit bir Python programı
 
 ## Özellikler
 
