@@ -54,4 +54,4 @@ PDF'ler başarıyla birleştirildi: birlesik.pdf
 
 ## Lisans
 
-MIT License
+MIT
