@@ -29,8 +29,3 @@ wheels/
 *.swp
 *.swo
 *~
-
-# Proje özel
-birlestirilecekler/
-birlesik.pdf
-*.pdf
