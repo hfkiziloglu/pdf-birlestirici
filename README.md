@@ -49,7 +49,7 @@ Ekleniyor: dosya1.pdf
 Ekleniyor: dosya2.pdf
 Ekleniyor: dosya3.pdf
 
-✓ PDF'ler başarıyla birleştirildi: birlesik.pdf
+PDF'ler başarıyla birleştirildi: birlesik.pdf
 ```
 
 ## Lisans
